@@ -155,8 +155,8 @@ First, create the environment variables file `.env` in the client folder. The `.
 
 ## For Support, Contact:
 
-- Email: codewavewithasante@gmail.com
-- Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
+- Email: akhtar012004@gmail.com
+- 
 =======
 # Mern-Task-Manager-tool
 MERN Stack Task Manager App with Admin Panel, Sub-tasks, Notifications, Excel Export
