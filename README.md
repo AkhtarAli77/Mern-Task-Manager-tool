@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fullstack Task Manager (MERN)
 
 
@@ -156,3 +157,7 @@ First, create the environment variables file `.env` in the client folder. The `.
 
 - Email: codewavewithasante@gmail.com
 - Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
+=======
+# Mern-Task-Manager-tool
+MERN Stack Task Manager App with Admin Panel, Sub-tasks, Notifications, Excel Export
+>>>>>>> 2389fdfe57f97a81ec622d6e1290dd590eb97306
