@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fullstack Task Manager (MERN)
 
 
